@@ -1,0 +1,13 @@
+site_code,region,country,city,site_size,capacity_mw,power_redundancy,risk_baseline_index,commissioned_year
+ASH01,AMER-East,USA,Ashburn,XL,75,2N,0.95,2008
+CHI01,AMER-East,USA,Chicago,L,42,N+1,1.02,2016
+NYC01,AMER-East,USA,New York,L,40,N+1,1.06,2012
+ATL01,AMER-East,USA,Atlanta,M,26,N+1,1.12,2009
+SJC01,AMER-West,USA,San Jose,XL,70,2N,0.98,2008
+LAX01,AMER-West,USA,Los Angeles,L,38,N+1,1.07,2020
+SEA01,AMER-West,USA,Seattle,M,24,N+1,1.03,2012
+PHX01,AMER-West,USA,Phoenix,M,28,N+1,1.1,2012
+DAL01,AMER-Central,USA,Dallas,XL,68,2N,1.0,2005
+DEN01,AMER-Central,USA,Denver,M,22,N+1,1.04,2009
+MIA01,AMER-Central,USA,Miami,M,25,N+1,1.15,2004
+TOR01,AMER-Central,Canada,Toronto,L,34,N+1,1.01,2003

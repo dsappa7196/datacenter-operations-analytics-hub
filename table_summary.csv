@@ -1,0 +1,9 @@
+table_name,row_count,column_count
+site_dim,12,9
+date_dim,547,10
+assets,540,21
+maintenance_work_orders,7761,22
+operations_daily,6564,19
+finance_monthly,864,11
+installed_customer_base_monthly,216,7
+customer_experience_monthly,216,6

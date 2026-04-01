@@ -9,7 +9,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Star%20Schema-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Domain](https://img.shields.io/badge/Domain-Data%20Center%20Ops-1a1a2e?style=for-the-badge)
 
-**[▶ Open Interactive Dashboard](hub-content.html)** · [📊 See Key Findings](#-key-findings) · [🏗 Architecture](#-solution-architecture)**
+**[▶ Open Interactive Dashboard](https://dsappa7196-github-io-yjma.vercel.app/analytics-hub)** · [📊 See Key Findings](#-key-findings) · [🏗 Architecture](#-solution-architecture)**
 
 </div>
 

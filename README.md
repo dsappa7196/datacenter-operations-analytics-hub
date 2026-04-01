@@ -9,7 +9,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Star%20Schema-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Domain](https://img.shields.io/badge/Domain-Data%20Center%20Ops-1a1a2e?style=for-the-badge)
 
-**[▶ View Live Dashboard Demo](#-live-demo) · [📊 See Key Findings](#-key-findings) · [🏗 Architecture](#-solution-architecture)**
+**[▶ Open Interactive Dashboard](hub-content.html)** · [📊 See Key Findings](#-key-findings) · [🏗 Architecture](#-solution-architecture)**
 
 </div>
 
@@ -55,7 +55,7 @@ This is the kind of infrastructure a reporting team actually needs. It reduces m
 
 ---
 
-## 📐 Solution Architecture
+## 📐 Solution Architecture![Solution Architecture](architecture%20diagram.png)
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐

@@ -39,7 +39,7 @@ Most analytics projects stop at visualization. This one doesn't. It covers:
 **Built by: Padmasree (Padma) Sappa**  
 Senior Business Analyst | Analytics & Reporting | San Francisco, CA
 
-📎 [Linkedin]: https://www.linkedin.com/in/padmasreesappa/ · 📁 [Portfolio]: (https://dsappa7196-github-io-yjma.vercel.app/) · 📧 sdnps7196@gmail.com
+📎 Linkedin: https://www.linkedin.com/in/padmasreesappa/ · 📁 Portfolio: (https://dsappa7196-github-io-yjma.vercel.app/) · 📧 sdnps7196@gmail.com
 
 ### My Background
 I have 6+ years of experience turning messy, multi-system data into **decisions** — not just reports. I've done this at Amazon (brand protection analytics, $1M business impact), at CGI (Jira delivery forecasting, 30% improvement in sprint accuracy), and across cross-functional teams in operations and finance.
@@ -246,8 +246,8 @@ I'm currently open to roles in **analytics, reporting, and business intelligence
 If this project is relevant to what your team needs, I'd love to talk.
 
 📧 sdnps7196@gmail.com  
-🔗 [LinkedIn](#your-linkedin-url)  
-🌐 [Portfolio](#your-portfolio-url)
+🔗 LinkedIn: https://www.linkedin.com/in/padmasreesappa/
+🌐 Portfolio: https://dsappa7196-github-io-yjma.vercel.app/
 
 ---
 

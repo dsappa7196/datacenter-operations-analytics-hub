@@ -4,7 +4,7 @@ An end-to-end analytics solution built for multi-site data center operations —
 
 **Stack:** Python · SQL · Power BI · HTML &nbsp;|&nbsp; **Domain:** Data Center Ops · Infrastructure Analytics
 
-[▶ Open Live Dashboard](https://dsappa7196.github.io/datacenter-operations-analytics-hub/hub-content.html) &nbsp;·&nbsp; [Portfolio](https://dsappa7196-github-io-yjma.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/padmasreesappa/)
+[▶ Open Live Dashboard](https://dsappa7196-github-io-yjma.vercel.app/analytics-hub) &nbsp;·&nbsp; [Portfolio](https://dsappa7196-github-io-yjma.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/padmasreesappa/)
 
 ---
 
